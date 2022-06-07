@@ -10,6 +10,12 @@
 
 ## RL
 - A basic Soft Actor Critic was implemented, adapted from [Phil Atbor](https://github.com/philtabor/Youtube-Code-Repository/tree/master/ReinforcementLearning/PolicyGradient/SAC)
-# Run
+## Requirements
+- torch
+- numpy
+- pymunk
+- pygame
+- keyboard
+## Run
 - create a local 'plots' and 'tmp/sac' folder
 - run the main_sac file
