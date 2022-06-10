@@ -9,7 +9,8 @@
 <p align="center">
 <img width="625" height="450" src="https://user-images.githubusercontent.com/79006977/172347780-7b960569-0813-4ac0-bae2-6a284bb551e1.png">
 </p>
- ## Reward
+
+## Reward
  - Shared reward, which scales with euclidean distance from goal
  - Large reward upon reaching goal
  - small cost for every step in the environment
